@@ -21,3 +21,10 @@ UpTask_MERN_frontend
 + git branch -M main
 + git remote add origin https://github.com/JAlvaroC/UpTask_MERN_frontend.git
 + git push -u origin main
+
+# Deploy <Heroku> es realizado en el video pero ahora ya no existe el plan gratuito
++ instalar heroku 
+# Deploy <Heroku> es realizado en el video pero ahora ya no existe el plan gratuito
+istalar en netlifly y corregir para cuando recargas la pag
+ con _redirects
+ 
